@@ -1,8 +1,5 @@
-Title	 Find me the nearest points
-Due	 24 Feb, 2012 11:55 pm
-Status	 Not Started
-Grade Scale	 Points (max 10.0)
-Modified by instructor	 11 Feb, 2012 9:32 am
+Title	: Find me the nearest points
+
 Instructions
 You are given a set, S, of points in a plane (2-dimensional). A query is a point, p, and a number k.
 You have to determine the k points of S which are nearest to p. The query point p may or may not belong to S.
