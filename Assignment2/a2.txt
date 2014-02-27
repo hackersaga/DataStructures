@@ -1,0 +1,12 @@
+Title	 Anagram Solver
+
+Instructions
+You have to write a program to solve Anagrams. You are given a dictionary as a plain text file. 
+You program should take as input an anagram and identify the corresponding word(s) in the dictionary. 
+
+The implementation should be done using hash tables.
+Your program should first insert all the words in the dictionary into one or more hash tables and
+then given an anagram search the hash table(s) for the corresponding words.
+For this scheme to work it is important that you design a suitable hash function. 
+Collision resolution should be done using chaining.
+You should also report the total time spent for each anagram.
